@@ -4,30 +4,28 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Your coach is a basic CRUD App powered by Vue.js on the frontend and Firebase on the backend
+Basic Single Page Application for the researcher to share his published and discussion papers
 
-- see the demo [here](https://yourcoach.web.app)
+- see the demo [here](https://pedroraposo.web.app)
 
 
 ## Features
 
-- Simple Landing Page
-- Authentication ( Sign up and Login)
-- See available Coaches Details
-- User Registration as Coach
+- Single Page App
+- Firebase Backend
+- Content managing through [FlameLink.io] (https://flamelink.io/)
+
 
 
 ## Tech
 
 Main features used for this project:
-- [Vue.js] 
+- Vue.js
 -- Vuex
--- Vue Router
 -- Vue Transitions
 -- Rest API
 - Firebase
 -- Realtime DataBase
--- User Athentication
 - HTML 5
 - CSS3
 
