@@ -13,7 +13,7 @@ Basic Single Page Application for the researcher to share his published and disc
 
 - Single Page App
 - Firebase Backend
-- Content managing through [FlameLink.io] (https://flamelink.io/)
+- Content managing through [FlameLink.io](https://flamelink.io)
 
 
 
@@ -29,7 +29,7 @@ Main features used for this project:
 - HTML 5
 - CSS3
 
-And of course YourCoach is open source with a [public repository]
+And of course YourCoach is open source with a [public repository](https://github.com/SanchezWarren/PedroRaposoSite)
  on GitHub.
 
 ## License
